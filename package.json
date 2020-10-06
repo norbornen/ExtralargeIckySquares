@@ -1,0 +1,11 @@
+{
+  "name": "qq2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:norbornen/ExtralargeIckySquares.git",
+  "author": "Alexey Kolpakov <al.kolpak@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.11.5"
+  }
+}
